@@ -26,7 +26,7 @@
       <div style="clear:both" />
 
       <div style="margin-top: 45px; border-top: 2px dashed #00ff41; padding-top: 20px;">
-        <p>My full CV in case anybody needs it:</p>
+        <p>Full CV available for download (PDF):</p>
         <a class="download-link" href="docs/FrankRuzickaCV.pdf" target="_blank">
             <i class="fa fa-download fa-lg fa-fw"></i> Download PDF
         </a>

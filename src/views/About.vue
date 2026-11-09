@@ -3,13 +3,11 @@
     <h1>Hello!</h1>
 
     <div class="paragraph">
-      <div>Hi, I'm Frank, a former physicist turned into a game dev (which I've been doing for 10 years).</div>
+      <div>I'm Frank — a gameplay and physics programmer based in Prague, Czech Republic.</div>
         
-      <div style="margin-top: 15px;"> I'm based in Prague, Czech Republic </div>
+      <div style="margin-top: 15px;">With a background in theoretical physics and over 10 years in game development, I specialize in vehicle dynamics, physics simulation, and low-level C++ engine programming. Over the years, I've had the chance to work on projects like <em>Euro Truck Simulator 2</em>, <em>Star Atlas</em>, and various real-time simulation systems.</div>
 
-      <div style="margin-top: 15px;">I've worked on various game projects, physics simulations, and have extensive experience in C++ and engine development.</div>
-
-      <div style="margin-top: 20px;">You can reach me at <a href="mailto:fruzicka@gmail.com">fruzicka@gmail.com</a>.</div>
+      <div style="margin-top: 20px;">Always happy to connect at <a href="mailto:fruzicka@gmail.com">fruzicka@gmail.com</a>.</div>
     </div>
 
     <div class="photo">

@@ -3,15 +3,15 @@ import ProjectData from '@/data/ProjectData'
 export default [
     new ProjectData("ets2", "Euro Truck Simulator 2", "img/projects/logo-ets2.png", `
     <div class="paragraph">
-    <strong>Euro Truck Simulator 2</strong> is the one truck (& vehicle) simulation game, period.
+    <strong>Euro Truck Simulator 2</strong> is the benchmark vehicle simulation franchise, powered by SCS Software's proprietary Prism3D engine.
     </div>
     
     <div class="paragraph">
         <strong>My Contributions</strong>
         <ul>
-        <li>Truck driving model countless improvements</li>
-        <li>Physic based movement for cables, flags, trailer curtains etc</li>
-        <li>Low-level work on the physics engine</li>
+        <li>Core driving dynamics overhaul: truck handling, suspension kinematics, wheel-ground contact mechanics, and powertrain response</li>
+        <li>Real-time physics-based movement and collision for pneumatic cables, flags, and trailer curtains</li>
+        <li>Low-level physics engine integration and migration from Bullet Physics to NVIDIA PhysX</li>
         </ul>
     </div>
     
@@ -22,15 +22,15 @@ export default [
 
     new ProjectData("ats", "American Truck Simulator", "img/projects/logo-ats.png", `
     <div class="paragraph">
-    <strong>American Truck Simulator</strong> brings the ETS2 experience into the American West.
+    <strong>American Truck Simulator</strong> brings the renowned vehicle simulation experience to the iconic landscapes of the American West.
     </div>
     
     <div class="paragraph">
         <strong>My Contributions</strong>
         <ul>
-        <li>Truck driving model countless improvements</li>
-        <li>Physic based movement for cables, flags, trailer curtains etc</li>
-        <li>Low-level work on the physics engine</li>
+        <li>Core driving dynamics overhaul: truck handling, suspension kinematics, wheel-ground contact mechanics, and powertrain response</li>
+        <li>Real-time physics-based movement and collision for pneumatic cables, flags, and trailer curtains</li>
+        <li>Low-level physics engine integration and migration from Bullet Physics to NVIDIA PhysX</li>
         </ul>
     </div>
     
@@ -41,15 +41,15 @@ export default [
 
     new ProjectData("tidal-rush", "Tidal Rush", "img/projects/tidalrushThumbnail.png", `
     <div class="paragraph">
-    <strong>Tidal Rush</strong> is an upcoming water racing game built in Unity.
+    <strong>Tidal Rush</strong> is a competitive watercraft racing title built in Unity.
     </div>
     
     <div class="paragraph">
         <strong>My Contributions</strong>
         <ul>
-        <li>Gameplay, physics and much more (from scratch)</li>
-        <li>Water tech (shaders & tooling)</li>
-        <li>Seamless & responsive multiplayer</li>
+        <li>Core jetski vehicle physics: dynamic buoyancy, hydrodynamic drag, wake interaction, and wave slicing</li>
+        <li>Water tech and shaders: dynamic wave displacement tooling and real-time mesh sampling for physics</li>
+        <li>Multiplayer netcode: low-latency networked vehicle synchronization and state prediction</li>
         </ul>
     </div>
     
@@ -60,15 +60,16 @@ export default [
 
     new ProjectData("star-atlas", "Star Atlas", "img/projects/logo-staratlas.png", `
     <div class="paragraph">
-    <strong>Star Atlas</strong> is an blockchain-based space exploration MMO built in UE 5.
+    <strong>Star Atlas</strong> is a space exploration MMO built in Unreal Engine 5.
     </div>
     
     <div class="paragraph">
         <strong>My Contributions</strong>
         <ul>
-        <li>Ship & hoverbike gameplay (physics, abilities, you name it)</li>
-        <li>Netcode for the above allowing for seamless multiplayer</li>
-        <li>Real-world-size planet creator tool</li>
+        <li>Vehicle physics & flight models: 6-DOF spaceship flight mechanics and atmospheric hoverbikes</li>
+        <li>Gameplay systems: abilities, weapons, mounting, and character customization using UE's GAS framework</li>
+        <li>Networked replication: server-authoritative flight prediction and replication for multiplayer</li>
+        <li>Planetary worldbuilding tools: procedural tooling for 1:1 planetary-scale terrain</li>
         </ul>
     </div>
     

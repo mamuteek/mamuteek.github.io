@@ -3,7 +3,7 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:58px;">Feel free to contact me about any opportunity in case you get interested.</div>
+    <div style="margin-bottom:58px;">Feel free to reach out regarding game projects, collaboration, or any questions.</div>
 
     <ul>
       <li>

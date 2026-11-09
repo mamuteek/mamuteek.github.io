@@ -1,0 +1,46 @@
+.dialog-content {
+  .paragraph {
+    margin: 20px 0;
+  }
+  .center {
+    text-align: center;
+  }
+  iframe.youtube {
+    width: 100%;
+    min-height: 300px;
+  }
+  .pc-screenshot, .phone-screenshot {
+    width: 100%;
+  }
+  .notice {
+    border: 1px solid #050;
+    background-color: #90c490;
+    color: #016301;
+    padding: 10px;
+  }
+  a {
+    color: #696969;
+    opacity: 1;
+    text-decoration: underline;
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}
+
+@media only screen and (min-width: 620px) {
+  .dialog-content {
+    iframe.youtube {
+      max-width: 728px;
+      height: 409px;
+    }
+    .phone-screenshot {
+      margin: 15px;
+      width: 300px;
+    }
+    .pc-screenshot {
+      margin: 15px;
+      width: 400px;
+    }
+  }
+}
