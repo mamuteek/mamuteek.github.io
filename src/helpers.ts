@@ -10,3 +10,4 @@ export default class Helpers {
     image.src = url;
   }
 }
+
